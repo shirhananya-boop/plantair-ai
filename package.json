@@ -1,0 +1,11 @@
+{
+  "name": "plantair-ai",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.4"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
